@@ -1,0 +1,6 @@
+streamlit
+matplotlib
+japanize-matplotlib
+yfinance
+google-auth
+google-api-python-client
