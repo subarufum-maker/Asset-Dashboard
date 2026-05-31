@@ -4,4 +4,3 @@ japanize-matplotlib
 yfinance
 google-auth
 google-api-python-client
-setuptools<70.0.0
